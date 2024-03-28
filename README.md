@@ -1,2 +1,4 @@
 # leon_project
-a html and css template project
+an HTML and CSS template project
+
+## notes
